@@ -22,4 +22,4 @@
 	<li><code>-10<sup>4</sup> &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
 	<li>All the <code>points</code> are <strong>unique</strong>.</li>
 </ul>
-</div>fghr
+</div>
